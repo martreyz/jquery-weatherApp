@@ -1,8 +1,9 @@
 "use strict";
+const APIKey = "7c05765e48a736503ac58fa052f36c1a";
 
 $(".input").change(function (e) {
   let inputValue = e.target.value;
-  const APIKey = "7c05765e48a736503ac58fa052f36c1a";
+
   $.ajax({
     url: `https://api.openweathermap.org/data/2.5/weather?q=${inputValue}&appid=${APIKey}`,
     success: function (response) {
