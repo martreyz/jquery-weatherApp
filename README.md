@@ -25,7 +25,7 @@ No hay ningún requerimiento especial para el arranque del proyecto.
 
 Hecho con :cat: por martreyz
 
-# Grade calculator
+# Weather App (jQuery)
 
 ## Development of a web app connected with a weather API to show information about wind speed, temperature and sky status. Developed with HTML, CSS, Bootstrap, JavaScript and jQuery. Final project of the course "Complete course of JavaScript and jQuery", by Mohammed Khan, in Udemy.
 
